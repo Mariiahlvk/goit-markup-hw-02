@@ -38,6 +38,7 @@ ul {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
+  text-decoration: none;
 }
 
 .logo-one {
@@ -53,6 +54,7 @@ ul {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
+  text-decoration: none;
 }
 
 /* Site nav */
@@ -89,6 +91,7 @@ ul {
   font-size: 44px;
   line-height: 1.36;
   text-align: center;
+  text-transform: uppercase;
   letter-spacing: 0.06em;
 }
 
@@ -100,8 +103,9 @@ ul {
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
-  text-align: center;
   letter-spacing: 0.06em;
+  display: block;
+  margin: 0 auto;
 }
 
 /* Section */
@@ -118,6 +122,7 @@ ul {
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
+  text-transform: uppercase;
 }
 
 .features-text {
